@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emojipedia-react/static/css/main.fb61df8a.css",
+    "main.js": "/emojipedia-react/static/js/main.440fe067.js",
+    "index.html": "/emojipedia-react/index.html",
+    "main.fb61df8a.css.map": "/emojipedia-react/static/css/main.fb61df8a.css.map",
+    "main.440fe067.js.map": "/emojipedia-react/static/js/main.440fe067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb61df8a.css",
+    "static/js/main.440fe067.js"
+  ]
+}
